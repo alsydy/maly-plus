@@ -1,0 +1,2 @@
+rootProject.name = "Maly Plus"
+include ':app'
